@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Eleitorado\bin\Debug\netcoreapp3.1\Condicionais-Eleitorado.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Eleitorado\bin\Debug\netcoreapp3.1\Condicionais-Eleitorado.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Eleitorado\bin\Debug\netcoreapp3.1\Condicionais-Eleitorado.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Eleitorado\bin\Debug\netcoreapp3.1\Condicionais-Eleitorado.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Eleitorado\bin\Debug\netcoreapp3.1\Condicionais-Eleitorado.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Eleitorado\bin\Debug\netcoreapp3.1\Condicionais-Eleitorado.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Eleitorado\obj\Debug\netcoreapp3.1\Condicionais-Eleitorado.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Eleitorado\obj\Debug\netcoreapp3.1\Condicionais-Eleitorado.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Eleitorado\obj\Debug\netcoreapp3.1\Condicionais-Eleitorado.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Eleitorado\obj\Debug\netcoreapp3.1\Condicionais-Eleitorado.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Eleitorado\obj\Debug\netcoreapp3.1\Condicionais-Eleitorado.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Eleitorado\obj\Debug\netcoreapp3.1\Condicionais-Eleitorado.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Lista de exercicios 23-11\Condicionais-Eleitorado\obj\Debug\netcoreapp3.1\Condicionais-Eleitorado.genruntimeconfig.cache
